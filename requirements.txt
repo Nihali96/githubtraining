@@ -2,3 +2,7 @@ This is chat application
 Emoji
 Type option
 colors
+
+Vibrant
+Dark mode
+Video calls
