@@ -10,3 +10,4 @@ Video calls
 Payment option
 send money
 receive money
+check balance
